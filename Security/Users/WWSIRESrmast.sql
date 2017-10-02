@@ -1,0 +1,3 @@
+﻿CREATE USER [WWSIRES\rmast]
+  FOR LOGIN [WWSIRES\rmast]
+GO

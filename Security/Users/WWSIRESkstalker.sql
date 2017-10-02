@@ -1,0 +1,3 @@
+﻿CREATE USER [WWSIRES\kstalker]
+  FOR LOGIN [WWSIRES\kstalker]
+GO

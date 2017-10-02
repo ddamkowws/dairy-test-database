@@ -1,0 +1,3 @@
+﻿CREATE USER [WWSIRES\ddamko]
+  FOR LOGIN [WWSIRES\ddamko]
+GO

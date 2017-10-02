@@ -1,0 +1,3 @@
+﻿CREATE USER [WWSIRES\dgagne]
+  FOR LOGIN [WWSIRES\dgagne]
+GO

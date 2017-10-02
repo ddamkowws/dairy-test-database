@@ -1,0 +1,3 @@
+﻿CREATE USER [WWSIRES\rkennedy]
+  FOR LOGIN [WWSIRES\rkennedy]
+GO

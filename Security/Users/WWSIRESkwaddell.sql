@@ -1,0 +1,3 @@
+﻿CREATE USER [WWSIRES\kwaddell]
+  FOR LOGIN [WWSIRES\kwaddell]
+GO

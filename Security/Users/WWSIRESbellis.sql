@@ -1,0 +1,3 @@
+﻿CREATE USER [WWSIRES\bellis]
+  FOR LOGIN [WWSIRES\bellis]
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [WWSIRES\sdobyns]
+  FOR LOGIN [WWSIRES\sdobyns]
+GO

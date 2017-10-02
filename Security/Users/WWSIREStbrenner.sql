@@ -1,0 +1,3 @@
+﻿CREATE USER [WWSIRES\tbrenner]
+  FOR LOGIN [WWSIRES\tbrenner]
+GO

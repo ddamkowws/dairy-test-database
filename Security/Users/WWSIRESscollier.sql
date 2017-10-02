@@ -1,0 +1,3 @@
+﻿CREATE USER [WWSIRES\scollier]
+  FOR LOGIN [WWSIRES\scollier]
+GO

@@ -1,0 +1,32 @@
+﻿CREATE TABLE [dbo].[SPAINPRICE_HISTORY] (
+  [PROOF_PERIOD] [nvarchar](10) NOT NULL,
+  [CODENO] [nvarchar](10) NOT NULL,
+  [ACTIVE] [int] NULL DEFAULT (0),
+  [LP] [int] NULL DEFAULT (0),
+  [YS] [nvarchar](1) NULL,
+  [INACTIVE] [nvarchar](3) NULL,
+  [CODENAME] [nvarchar](20) NULL,
+  [REGNAME] [nvarchar](33) NULL,
+  [OLDCOST] [money] NULL,
+  [NEWCOST] [money] NULL,
+  [DECREASE] [nvarchar](1) NULL,
+  [OLDSELL] [money] NULL,
+  [NEWSELL] [money] NULL,
+  [OLDRETAIL] [money] NULL,
+  [RETAIL] [money] NULL,
+  [MINCOST] [money] NULL,
+  [MINSELL] [money] NULL,
+  [COMMENT] [nvarchar](50) NULL,
+  [INVENTORY] [int] NULL,
+  [EU_INVENTORY] [int] NULL,
+  [BREED] [nvarchar](2) NULL,
+  [HOUSED] [nvarchar](10) NULL,
+  [IDNO] [nvarchar](12) NULL,
+  [NEW] [nvarchar](3) NULL,
+  [STUD] [float] NULL,
+  [STYPE] [nvarchar](1) NULL,
+  [UID] [nvarchar](17) NULL,
+  CONSTRAINT [SPAINPRICE_HIST$PrimaryKey] PRIMARY KEY CLUSTERED ([PROOF_PERIOD], [CODENO])
+)
+ON [PRIMARY]
+GO

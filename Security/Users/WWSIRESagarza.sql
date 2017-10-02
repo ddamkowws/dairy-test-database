@@ -1,0 +1,3 @@
+﻿CREATE USER [WWSIRES\agarza]
+  FOR LOGIN [WWSIRES\agarza]
+GO

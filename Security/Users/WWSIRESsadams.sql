@@ -1,0 +1,3 @@
+﻿CREATE USER [WWSIRES\sadams]
+  FOR LOGIN [WWSIRES\sadams]
+GO

@@ -1,0 +1,3 @@
+﻿CREATE USER [WWSIRES\kscott]
+  FOR LOGIN [WWSIRES\kscott]
+GO
